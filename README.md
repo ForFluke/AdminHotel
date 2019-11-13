@@ -1,2 +1,2 @@
-# AdminHotel
+# hotel
 admin manage hotel 
